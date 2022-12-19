@@ -1,4 +1,4 @@
-- 👋 👋 Hi there, I'm ABHISHEK JAISWAL
+- 👋 Hi there, I'm ABHISHEK JAISWAL
 
 Information security enthusiast with strong interest in penetration testing and offensive security.
 Strong background in security tools, emerging technologies, processes and best practices.
